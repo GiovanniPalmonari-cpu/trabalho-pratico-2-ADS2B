@@ -5,11 +5,6 @@ Projeto acadêmico da disciplina **Linguagem e Técnicas de Programação**, cur
 ## Integrantes
 
 - Giovanni Palmonari — RA 26002959-2
-- Etinosa — RA 26015725-2
-- Lucas Tavares Ortega — RA 26008832-2
-- Ricardo Henrique — RA 26002534-2
-- Filipe Cruz — RA 26014646-2
-
 ## Tecnologias
 
 - PHP 8.1 ou superior
